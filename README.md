@@ -1,4 +1,4 @@
-# Amazon-Bewertungen Sentiment-Analyse und Klassifikationsmodell
+## Amazon-Bewertungen Sentiment-Analyse und Klassifikationsmodell
 
 Dieses Projekt wurde entwickelt, um die Produktbewertungen von **Kozmos**, einem Unternehmen für Heimtextilien und Alltagsbekleidung auf Amazon, zu analysieren. Ziel ist es, die Kundenzufriedenheit zu messen, Rückmeldungen zur Produktverbesserung zu erhalten und Verkaufsstrategien zu optimieren.
 
